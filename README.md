@@ -46,7 +46,7 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/Text-to-Image-GAN.git
+git clone https://github.com/rehan474/Text-to-Image-GAN.git
 cd Text-to-Image-GAN
 Create and Activate a Virtual Environment:
 
@@ -92,4 +92,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For questions or suggestions, please contact [mohorehan@gmail.com].
+For questions or suggestions, please contact mohorehan@gmail.com.
