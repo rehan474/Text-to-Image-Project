@@ -1,3 +1,4 @@
+
 Text-to-Image GAN Project
 Title:Text-to-Image Synthesis using GANs
 
